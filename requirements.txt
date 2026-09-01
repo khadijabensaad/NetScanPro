@@ -1,0 +1,8 @@
+streamlit>=1.35.0
+plotly>=5.18.0
+pandas>=2.0.0
+pysnmp-lextudio>=6.2.0
+reportlab>=4.0.0
+ping3>=4.0.3
+pytest>=7.0.0
+pytest-cov>=4.0.0
